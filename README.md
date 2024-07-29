@@ -41,7 +41,7 @@ To run the AI Dungeon Crawler game, follow these steps:
    ```
 4. **Run the game**:
    ```bash
-   python ai_dungeon_crawler.py
+   python main.py
    ```
 
 ## Game Instructions
